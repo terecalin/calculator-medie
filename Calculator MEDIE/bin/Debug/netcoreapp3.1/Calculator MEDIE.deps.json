@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculator MEDIE/1.0.0": {
+        "runtime": {
+          "Calculator MEDIE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator MEDIE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

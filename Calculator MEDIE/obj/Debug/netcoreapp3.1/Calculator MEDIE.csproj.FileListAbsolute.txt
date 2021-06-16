@@ -1,0 +1,16 @@
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.csprojAssemblyReference.cache
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator_MEDIE.Form1.resources
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.csproj.GenerateResource.cache
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.AssemblyInfoInputs.cache
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.AssemblyInfo.cs
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.csproj.CoreCompileInputs.cache
+E:\C#\Calculator MEDIE\bin\Debug\netcoreapp3.1\Calculator MEDIE.exe
+E:\C#\Calculator MEDIE\bin\Debug\netcoreapp3.1\Calculator MEDIE.deps.json
+E:\C#\Calculator MEDIE\bin\Debug\netcoreapp3.1\Calculator MEDIE.runtimeconfig.json
+E:\C#\Calculator MEDIE\bin\Debug\netcoreapp3.1\Calculator MEDIE.runtimeconfig.dev.json
+E:\C#\Calculator MEDIE\bin\Debug\netcoreapp3.1\Calculator MEDIE.dll
+E:\C#\Calculator MEDIE\bin\Debug\netcoreapp3.1\Calculator MEDIE.pdb
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.dll
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.pdb
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator MEDIE.genruntimeconfig.cache
+E:\C#\Calculator MEDIE\obj\Debug\netcoreapp3.1\Calculator_MEDIE.Properties.Resources.resources
